@@ -93,7 +93,7 @@ h2{
     background-color: thistle;
 }
 #develop-img img{
-    max-width: 50%;
+    max-width: 55%;
     height: auto;
     float: left;
     margin-left: 10%;
@@ -111,7 +111,7 @@ h2{
     text-align: justify;
 }
 #global-img img{
-    max-width: 50%;
+    max-width: 55%;
     height: auto;
     float: right;
     margin-right: 20%;
