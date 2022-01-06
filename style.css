@@ -9,7 +9,7 @@ h1{
 }
 .flexible{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 120px;
 }
 .half-width{
     width: 50%;
@@ -92,7 +92,7 @@ h2{
     border-radius: 5%;
     background-color: thistle;
 }
-#code img{
+#develop-img img{
     max-width: 50%;
     height: auto;
     float: left;
@@ -100,6 +100,7 @@ h2{
     margin-right: 0%;
 }
 #develop{
+    text-align: justify;
     max-width: 80%;
     float: right;
     margin-right: 10%;
@@ -107,6 +108,7 @@ h2{
 }
 #global{
     margin-left: 5%;
+    text-align: justify;
 }
 #global-img img{
     max-width: 50%;
