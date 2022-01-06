@@ -1,0 +1,131 @@
+body{
+    margin-left: 0%;
+    margin-right: 0%;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: 50px;
+}
+.flexible{
+    display: flex;
+    margin-bottom: 150px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.flexible-column{
+    display: flex;
+    flex-direction: column;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, rgb(174, 0, 255));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.half-width img{
+    max-width: 70%;
+    height: auto;
+    margin-top: 0%;
+    padding-top: 0%;
+    border-top: 0%;
+}
+#top{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(255, 0, 21),yellow);
+    border-image-slice: 1;
+}
+.tomato{
+    color: tomato;
+}
+#mission{
+    text-align: center;
+}
+
+.img-size img{
+    max-width: 60%;
+    height: auto;
+    margin-left: 10%;
+}
+h2{
+    font-size: 40px;
+}
+#mission-text{
+    text-align: justify;
+    width: 80%;
+    margin-right: 0%;
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+    border-radius: 5%;
+    background-color: turquoise;
+    
+}
+#vision-text{
+    text-align: justify;
+    width: 80%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+    border-radius: 5%;
+    background-color: wheat;
+}
+#goal-text{
+    text-align: justify;
+    width: 80%;
+    margin-right: 10%;
+    margin-left: 0%;
+    padding-left: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+    border-radius: 5%;
+    background-color: thistle;
+}
+#code img{
+    max-width: 50%;
+    height: auto;
+    float: left;
+    margin-left: 10%;
+    margin-right: 0%;
+}
+#develop{
+    max-width: 80%;
+    float: right;
+    margin-right: 10%;
+    margin-left: 0%;
+}
+#global{
+    margin-left: 5%;
+}
+#global-img img{
+    max-width: 50%;
+    height: auto;
+    float: right;
+    margin-right: 10%;
+    margin-left: 0%;
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
+#footer-head{
+    font-style: italic;
+    padding-top: 10%;
+    color: white;
+}
+#footer-text{
+    font-style: italic;
+    padding-bottom: 10%;
+    color: white;
+}
